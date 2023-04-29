@@ -1,0 +1,15 @@
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\mis-221-pa-5-kmsmith52.csproj.AssemblyReference.cache
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\mis-221-pa-5-kmsmith52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\mis-221-pa-5-kmsmith52.AssemblyInfoInputs.cache
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\mis-221-pa-5-kmsmith52.AssemblyInfo.cs
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\mis-221-pa-5-kmsmith52.csproj.CoreCompileInputs.cache
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\bin\Debug\net7.0\mis-221-pa-5-kmsmith52.exe
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\bin\Debug\net7.0\mis-221-pa-5-kmsmith52.deps.json
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\bin\Debug\net7.0\mis-221-pa-5-kmsmith52.runtimeconfig.json
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\bin\Debug\net7.0\mis-221-pa-5-kmsmith52.dll
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\bin\Debug\net7.0\mis-221-pa-5-kmsmith52.pdb
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\mis-221-pa-5-kmsmith52.dll
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\refint\mis-221-pa-5-kmsmith52.dll
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\mis-221-pa-5-kmsmith52.pdb
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\mis-221-pa-5-kmsmith52.genruntimeconfig.cache
+C:\Users\504tr\Downloads\MIS 221\mis-221-projects\mis-221-pa-5-kmsmith52\obj\Debug\net7.0\ref\mis-221-pa-5-kmsmith52.dll
